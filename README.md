@@ -1,3 +1,5 @@
 # yungui-demo
 测试composer包
--- "yungui/demo": "@dev"
+
+"yungui/demo": "@dev"
+
